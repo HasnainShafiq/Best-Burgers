@@ -9,3 +9,5 @@ This was one of my earliest projects which was an excuse to fiddle around with T
 
 Made using Tailwind CSS. Simple landing page made with HTML, TailwindCSS, and a bit of JS for the dropdown menu and for allowing the user to scroll to a particular section on clicking one of the navigation buttons.
 
+Note: I apologise for the folder named 'DamnIt'. As mentioned above, I became quite frustrated with NPM and the installation process for Tailwind and named the folder out of frustration.
+
